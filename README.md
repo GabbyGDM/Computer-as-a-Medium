@@ -1,2 +1,4 @@
 # Computer as a Medium
-DIG 3480 2026
+### This is a repo for the Computer as a Medium Fall 2026
+### Group Name:  []
+### Group Members:  []
